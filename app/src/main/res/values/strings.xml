@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Project 1: Electric Time</string>
+
+    <string name="askDistance">How far are you going?</string>
+    <string name="hintDistance">Enter distance in miles.</string>
+
+    <string name="askTransport">How are you getting there?</string>
+    <string name="promptTransport">Select mode of transportation.</string>
+
+    <string name="ButtonText">Let\'s go!</string>
+
+    <string-array name="transport_array">
+        <item>Walking</item>
+        <item>Boosted Mini S Board</item>
+        <item>Evolve Skateboard</item>
+        <item>OneWheel</item>
+        <item>MotoTec Skateboard</item>
+        <item>Segway Ninebot One S1</item>
+        <item>Segway i2 SE</item>
+        <item>Razor Scooter</item>
+        <item>GeoBlade 500</item>
+        <item>HoverTrax Hoverboard</item>
+    </string-array>
+
+</resources>
